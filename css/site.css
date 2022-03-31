@@ -5,6 +5,15 @@
     --white-color: #e7e7e7;
 }
 
+.odd {
+    font-weight: 100;
+}
+
+.even {
+    font-weight: bold;
+    font-style: large;
+}
+
 .logoFont {
     font-family: 'Shrikhand', cursive;
     letter-spacing: 0.1rem;
